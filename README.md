@@ -34,21 +34,13 @@ Full-stack technical founder based in Brisbane, Australia.
 I build production SaaS products, AI automation systems, and open-source developer tools. My current focus is turning AI coding agents from "pair programmers" into reliable engineering systems: structured tasks, atomic commits, review packs, CI loops, and production-safe workflows.
 I'm currently operating across SaaS, open-source, and agentic development infrastructure — shipping with Codex, OpenClaw, Claude, OpenAI, and disciplined automation.
 
-## 🧠 Currently Building in Public
-
-- **CrewCMD** — Open-source OpenClaw management layer for coordinating agentic development workflows
-- **Codex/OpenClaw Agent OS** — reusable instructions, review-pack formats, task schemas, and branch policies for high-throughput AI-assisted engineering
-- **product-videogen** — AI video generation and analysis pipeline for producing product videos at scale
-- **70-Day OSS Sprint** — building a portfolio of practical agentic developer tools, plugins, templates, and automation utilities
-
 ## 🚀 Currently Shipping
 
 - 🐎 **[Thoroughbreds.ai](https://thoroughbreds.ai)** — Equine breeding intelligence platform `Next.js · Python · ML` — *CTO & Co-Founder*
-- 🧰 **CrewCMD** — OpenClaw management layer for orchestrating agents, repos, PRs, and review workflows
-- 🎬 **product-videogen** — AI product video generation and analysis pipeline
+- 🧰 **CrewCMD** — (Opensource) OpenClaw management layer for orchestrating agents, repos, PRs, and review workflows
 - 📮 **[PostDropr](https://postdropr.com)** — Lead generation from creative content `Next.js · Supabase · Stripe`
 - 🧠 **[Soply.ai](https://soply.ai)** — Knowledge management for growing teams `Next.js · TypeScript · AI`
-- 🎥 **ClutchCut** — YouTube automation & AI content platform `Next.js · FastAPI · Turborepo`
+- 🎥 **ClutchCut** — AI product video generation and analysis pipeline `Next.js · FastAPI · Turborepo`
 
 > I build, ship, and operate products end-to-end — increasingly with agentic workflows that turn ideas into tested, reviewable, production-ready changes.
 
