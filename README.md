@@ -1,12 +1,16 @@
 <h1 align="center">Roger Chappel</h1>
-<h3 align="center">Technical Founder · Building & Shipping SaaS Products</h3>
+<h3 align="center">Technical Founder · Agentic Systems Builder · Shipping SaaS & OSS</h3>
+
+<p align="center">
+Building agentic developer systems, OpenClaw tooling, production SaaS products, and AI-powered automation workflows.
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rogerchappel/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://axislabs.dev"><img src="https://img.shields.io/badge/-Axis_Labs-1a1a1a?style=flat-square&logo=rocket&logoColor=white" alt="Axis Labs"></a>
 <a href="mailto:hello@axislabs.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <br>
-<img src="https://komarev.com/ghpvc/?username=digiphd&style=flat-square&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rogerchappel&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -26,73 +30,108 @@
 
 ---
 
-Full-stack engineer shipping useful production SaaS products — from idea to live users. 
+Full-stack technical founder based in Brisbane, Australia.
+I build production SaaS products, AI automation systems, and open-source developer tools. My current focus is turning AI coding agents from "pair programmers" into reliable engineering systems: structured tasks, atomic commits, review packs, CI loops, and production-safe workflows.
+I'm currently operating across SaaS, open-source, and agentic development infrastructure — shipping with Codex, OpenClaw, Claude, OpenAI, and disciplined automation.
+
+## 🧠 Currently Building in Public
+
+- **CrewCMD** — Open-source OpenClaw management layer for coordinating agentic development workflows
+- **Codex/OpenClaw Agent OS** — reusable instructions, review-pack formats, task schemas, and branch policies for high-throughput AI-assisted engineering
+- **product-videogen** — AI video generation and analysis pipeline for producing product videos at scale
+- **70-Day OSS Sprint** — building a portfolio of practical agentic developer tools, plugins, templates, and automation utilities
 
 ## 🚀 Currently Shipping
 
 - 🐎 **[Thoroughbreds.ai](https://thoroughbreds.ai)** — Equine breeding intelligence platform `Next.js · Python · ML` — *CTO & Co-Founder*
-- 📮 **[PostDropr](https://postdropr.com)** — Lead generation from creative content `Next.js · Supabase · Stripe` — *sign up & try it*
+- 🧰 **CrewCMD** — OpenClaw management layer for orchestrating agents, repos, PRs, and review workflows
+- 🎬 **product-videogen** — AI product video generation and analysis pipeline
+- 📮 **[PostDropr](https://postdropr.com)** — Lead generation from creative content `Next.js · Supabase · Stripe`
 - 🧠 **[Soply.ai](https://soply.ai)** — Knowledge management for growing teams `Next.js · TypeScript · AI`
-- 🎬 **ClutchCut** — YouTube automation & AI content platform `Next.js · FastAPI · Turborepo` — *coming soon*
+- 🎥 **ClutchCut** — YouTube automation & AI content platform `Next.js · FastAPI · Turborepo`
 
-> I design, build, and ship every product end-to-end. No dev team — just fast iteration and relentless shipping.
+> I build, ship, and operate products end-to-end — increasingly with agentic workflows that turn ideas into tested, reviewable, production-ready changes.
 
 ## 🛠 What I Build With
 
-```
-Frontend     Next.js · TypeScript · React · Tailwind CSS
-Backend      Python · FastAPI · Node.js · Supabase · PostgreSQL
-AI/ML        OpenAI · Claude · LangChain · scikit-learn · Vector DBs · NLP
-ML Eng       Feature Engineering · Predictive Models · Recommendation Engines · Audio Analysis
-Payments     Stripe · Better Auth
-Infra        Vercel · Cloudflare · Turborepo · Railway
+```text
+Frontend      Next.js · TypeScript · React · Tailwind CSS
+Backend       Python · FastAPI · Node.js · Supabase · PostgreSQL
+AI/ML         OpenAI · Claude · LangChain · Vector DBs · NLP · Recommendation Systems
+Agents        Codex · OpenClaw · Claude Code · AGENTS.md · Review Packs · CI Loops
+Payments      Stripe · Better Auth
+Infra         Vercel · Cloudflare · Turborepo · Railway · GitHub Actions
+Workflow      Atomic Commits · Branch-Based PRs · Agent Task Queues · Production-Safe Automation
 ```
 
 ## 🏆 Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy-rust.vercel.app/?username=digiphd&theme=darkhub&no-frame=true&no-bg=true&column=7&rank=-C,-?" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-rust.vercel.app/?username=rogerchappel&theme=darkhub&no-frame=true&no-bg=true&column=7&rank=-C,-?" alt="GitHub Trophies" />
 </p>
 
 ## 📊 Activity
 
 <p align="center">
-<img src="https://ghchart.rshah.org/digiphd" alt="GitHub Contributions" />
+<img src="https://ghchart.rshah.org/rogerchappel" alt="GitHub Contributions" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=digiphd&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rogerchappel&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=digiphd&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rogerchappel&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
+
+## 🤖 Agentic Development
+
+I use AI agents as an engineering force multiplier, not as a replacement for engineering judgment.
+
+Current workflow principles:
+
+```text
+Structured task briefs
+→ isolated branches
+→ atomic commits
+→ focused PRs
+→ automated verification
+→ review packs
+→ human approval for risky changes
+```
+
+I'm actively building systems around:
+
+- Codex workflows
+- OpenClaw agent orchestration
+- reusable AGENTS.md instruction sets
+- PR review packs
+- CI repair loops
+- voice-to-task capture
+- production-safe agent policies
+
+## 🗓 Current Sprint
+
+I'm working through a 70-day public OSS sprint focused on agentic software development.
+
+The goal:
+
+- build practical open-source tools
+- improve Codex/OpenClaw workflows
+- create reusable agent instruction systems
+- ship small, useful developer utilities
+- document what actually works when using AI agents in production/community repos
+
+The theme: moving from **using agents** to **operating an agent factory**.
 
 ## 💡 Philosophy
 
-"Ship beats perfect." I build products to solve real problems, learn what works by putting things in front of real users, and iterate fast. Every product I've built went from idea to live URL in weeks, not months.
+"Ship beats perfect — but shipped, tested, and reviewable beats chaos."
 
-Currently focused on AI-powered content tools and automation platforms.
-
-## 🤖 AI-Assisted Development
-
-```text
- ┌─────────────────────────────────────────────┐
- │  Me:     "Build a SaaS in a weekend"        │
- │  Claude: "Say less."                        │
- │  Me:     *ships it Monday*                  │
- │  Users:  "Wait, there's no team?"           │
- └─────────────────────────────────────────────┘
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/Pair_Programmer-Claude_🧠-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vibe_Coded-0%25-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bugs_Blamed_On_AI-100%25-red?style=for-the-badge" />
-</p>
+I build products to solve real problems, put them in front of real users, and iterate quickly. My current obsession is designing systems where AI agents can move fast without destroying auditability, trust, or production safety.
 
 ---
 
 <p align="center">
-📍 Brisbane, Australia · 📧 hello@axislabs.dev
+📍 Brisbane, Australia · 🧑‍💻 GitHub: rogerchappel · 🎙 Creator handle: roger-creator · 📧 hello@axislabs.dev
 </p>
