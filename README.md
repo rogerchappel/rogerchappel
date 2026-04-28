@@ -97,6 +97,7 @@ I'm actively building systems around:
 - Codex workflows
 - OpenClaw agent orchestration
 - reusable AGENTS.md instruction sets
+- [Agentic Team Playbook](http://agent-playbook.rogerchappel.com/) for durable agent workflow templates and policies
 - PR review packs
 - CI repair loops
 - voice-to-task capture
