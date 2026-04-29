@@ -92,16 +92,19 @@ Structured task briefs
 → human approval for risky changes
 ```
 
-I'm actively building systems around:
+I'm actively building an agentic development stack where the pieces fit together:
 
-- Codex workflows
-- OpenClaw agent orchestration
-- reusable AGENTS.md instruction sets
-- [Agentic Team Playbook](http://agent-playbook.rogerchappel.com/) for durable agent workflow templates and policies
-- PR review packs
-- CI repair loops
-- voice-to-task capture
-- production-safe agent policies
+- [Agentic Team Playbook](https://github.com/rogerchappel/agentic-team-playbook): shared operating model, policies, and workflow templates for durable AI agent teams
+- [CrewCMD](https://github.com/axislabs-dev/crewcmd): OpenClaw management layer for tasks, agents, repos, PRs, review workflows, and org memory
+- [taskbrief](https://github.com/rogerchappel/taskbrief): turns messy ideas, notes, and TODO dumps into structured agent-ready task queues
+- [branchbrief](https://github.com/rogerchappel/branchbrief): turns completed branches into reviewable, auditable briefs for humans and AI reviewers
+- [repoctx](https://github.com/rogerchappel/repoctx): repository context tooling for agentic development workflows
+- [repoforge](https://github.com/rogerchappel/repoforge): deterministic repository generation for agent-friendly source repos
+- [StackForge](https://github.com/rogerchappel/stackforge): agent-friendly scaffolding CLI for apps, APIs, CLIs, and OSS packages
+- [agentic-oss-template](https://github.com/rogerchappel/agentic-oss-template): open-source repo template with maintainer policy, CI, security docs, and agent workflow rules
+- [oss-ideas](https://github.com/rogerchappel/oss-ideas): public idea bank and PRD pipeline for the 70-day OSS sprint
+
+Together, these projects cover the loop from idea capture → task shaping → repo setup → agent execution → branch review → production-safe release.
 
 ## 🗓 Current Sprint
 
