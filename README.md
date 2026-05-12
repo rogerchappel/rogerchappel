@@ -108,7 +108,7 @@ Together, these projects cover the loop from idea capture → task shaping → r
 
 ## 🗓 Current Sprint
 
-I'm working through a 70-day public OSS sprint focused on agentic software development.
+I'm working through a 60-day public OSS sprint focused on agentic software development.
 
 The goal:
 
