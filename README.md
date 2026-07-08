@@ -108,15 +108,12 @@ Together, these projects cover the loop from idea capture → task shaping → r
 
 ## 🗓 Current Sprint
 
-I'm working through a 60-day public OSS sprint focused on agentic software development.
-
 The goal:
 
-- build practical open-source tools
+- build practical open-source with a focus on crewcmd and CLIs
 - improve Codex/OpenClaw workflows
 - create reusable agent instruction systems
-- ship small, useful developer utilities
-- document what actually works when using AI agents in production/community repos
+- Building thoroughbreds ai (closed source) and clutch Cut (closed source)
 
 The theme: moving from **using agents** to **operating an agent factory**.
 
