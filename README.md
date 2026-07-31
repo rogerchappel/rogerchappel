@@ -38,9 +38,8 @@ I'm currently operating across SaaS, open-source, and agentic development infras
 
 - 🐎 **[Thoroughbreds.ai](https://thoroughbreds.ai)** — Equine breeding intelligence platform `Next.js · Python · ML` — *CTO & Co-Founder*
 - 🧰 **[CrewCMD](https://github.com/axislabs-dev/crewcmd)** — (Opensource) OpenClaw management layer for orchestrating agents, repos, PRs, and review workflows
-- 📮 **[PostDropr](https://postdropr.com)** — Lead generation from creative content `Next.js · Supabase · Stripe`
 - 🧠 **[Soply.ai](https://soply.ai)** — Knowledge management for growing teams `Next.js · TypeScript · AI`
-- 🎥 **ClutchCut** — AI product video generation and analysis pipeline `Next.js · FastAPI · Turborepo`
+- 🎥 **[ClutchCut](https://clutchcut.ai)** — AI product video generation and analysis pipeline `Next.js · FastAPI · Turborepo`
 
 > I build, ship, and operate products end-to-end — increasingly with agentic workflows that turn ideas into tested, reviewable, production-ready changes.
 
